@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette</folder>
+	<filename>21. Actor+Cigarette+Lit.jpg</filename>
+	<path>D:\Projects\codefun\git\dataset\cigarette\21. Actor+Cigarette+Lit.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>66</ymin>
+			<xmax>968</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

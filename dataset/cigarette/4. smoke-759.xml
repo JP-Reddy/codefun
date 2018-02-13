@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette</folder>
+	<filename>4. smoke-759.jpg</filename>
+	<path>D:\Projects\codefun\git\dataset\cigarette\4. smoke-759.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>759</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>27</ymin>
+			<xmax>620</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>
