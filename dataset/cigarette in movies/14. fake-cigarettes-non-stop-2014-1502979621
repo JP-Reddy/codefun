@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette in movies</folder>
+	<filename>14. fake-cigarettes-non-stop-2014-1502979621.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\cigarette in movies\14. fake-cigarettes-non-stop-2014-1502979621.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>439</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>247</ymin>
+			<xmax>426</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

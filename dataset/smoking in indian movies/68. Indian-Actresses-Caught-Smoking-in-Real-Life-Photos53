@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smoking in indian movies</folder>
+	<filename>68. Indian-Actresses-Caught-Smoking-in-Real-Life-Photos53.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\smoking in indian movies\68. Indian-Actresses-Caught-Smoking-in-Real-Life-Photos53.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1154</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymin>246</ymin>
+			<xmax>716</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

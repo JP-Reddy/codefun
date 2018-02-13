@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smoking in indian movies</folder>
+	<filename>97. intriguing-indian-thrillers-that-you-should-definitely-check-out-740x400-1-1501236377.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\smoking in indian movies\97. intriguing-indian-thrillers-that-you-should-definitely-check-out-740x400-1-1501236377.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>740</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>187</ymin>
+			<xmax>355</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

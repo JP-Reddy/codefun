@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smoking in indian movies</folder>
+	<filename>29. MV5BNjM3MmU5MTEtMzczZC00OTMxLWE4ZTAtNzBjMGNiOTg5YjU4XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\smoking in indian movies\29. MV5BNjM3MmU5MTEtMzczZC00OTMxLWE4ZTAtNzBjMGNiOTg5YjU4XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>405</ymin>
+			<xmax>265</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

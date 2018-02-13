@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette in movies</folder>
+	<filename>88. smoking-teen.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\cigarette in movies\88. smoking-teen.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>525</width>
+		<height>454</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>306</ymin>
+			<xmax>376</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette in movies</folder>
+	<filename>53. mzjuh_deniro_552229-300x193_large.gif.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\cigarette in movies\53. mzjuh_deniro_552229-300x193_large.gif.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>106</ymin>
+			<xmax>154</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>
