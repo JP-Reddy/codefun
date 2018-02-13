@@ -1,0 +1,26 @@
+<annotation>
+	<folder>people smoking</folder>
+	<filename>30. AAEAAQAAAAAAAAp4AAAAJDY5NmRjOWNiLTc3ODYtNDI5Ni1iYTdmLTljN2U4ZGY5N2ViMQ.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\people smoking\30. AAEAAQAAAAAAAAp4AAAAJDY5NmRjOWNiLTc3ODYtNDI5Ni1iYTdmLTljN2U4ZGY5N2ViMQ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>252</ymin>
+			<xmax>244</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

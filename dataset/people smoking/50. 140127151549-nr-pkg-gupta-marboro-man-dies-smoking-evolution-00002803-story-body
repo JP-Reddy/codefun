@@ -1,0 +1,50 @@
+<annotation>
+	<folder>people smoking</folder>
+	<filename>50. 140127151549-nr-pkg-gupta-marboro-man-dies-smoking-evolution-00002803-story-body.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\people smoking\50. 140127151549-nr-pkg-gupta-marboro-man-dies-smoking-evolution-00002803-story-body.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>169</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>108</ymin>
+			<xmax>205</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>105</ymin>
+			<xmax>189</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>101</ymin>
+			<xmax>171</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>
