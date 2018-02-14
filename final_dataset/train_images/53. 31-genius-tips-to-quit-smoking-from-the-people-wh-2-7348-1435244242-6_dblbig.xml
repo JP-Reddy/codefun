@@ -1,0 +1,26 @@
+<annotation>
+	<folder>people smoking</folder>
+	<filename>53. 31-genius-tips-to-quit-smoking-from-the-people-wh-2-7348-1435244242-6_dblbig.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\people smoking\53. 31-genius-tips-to-quit-smoking-from-the-people-wh-2-7348-1435244242-6_dblbig.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>415</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>173</ymin>
+			<xmax>117</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

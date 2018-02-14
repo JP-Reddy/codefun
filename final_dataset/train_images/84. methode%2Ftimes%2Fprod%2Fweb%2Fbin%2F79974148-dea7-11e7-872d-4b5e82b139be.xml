@@ -1,0 +1,26 @@
+<annotation>
+	<folder>people smoking</folder>
+	<filename>84. methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F79974148-dea7-11e7-872d-4b5e82b139be.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\people smoking\84. methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F79974148-dea7-11e7-872d-4b5e82b139be.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1037</xmin>
+			<ymin>1054</ymin>
+			<xmax>1210</xmax>
+			<ymax>1350</ymax>
+		</bndbox>
+	</object>
+</annotation>

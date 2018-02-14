@@ -1,0 +1,26 @@
+<annotation>
+	<folder>people smoking</folder>
+	<filename>15. 041817_cigarettetax_THUMB_LARGE.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\people smoking\15. 041817_cigarettetax_THUMB_LARGE.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1296</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>4</ymin>
+			<xmax>767</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

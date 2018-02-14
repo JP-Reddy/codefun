@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette in movies</folder>
+	<filename>90. 02456ec4f7d4f1f785e1d4cbe0f5fb93--angelina-jolie-smoking.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\cigarette in movies\90. 02456ec4f7d4f1f785e1d4cbe0f5fb93--angelina-jolie-smoking.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>27</ymin>
+			<xmax>199</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette in movies</folder>
+	<filename>100. 160929_MOV_AmericanHoney.jpg.CROP_.cq5dam_web_1280_1280_jpeg.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\cigarette in movies\100. 160929_MOV_AmericanHoney.jpg.CROP_.cq5dam_web_1280_1280_jpeg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1180</width>
+		<height>842</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>683</xmin>
+			<ymin>514</ymin>
+			<xmax>880</xmax>
+			<ymax>630</ymax>
+		</bndbox>
+	</object>
+</annotation>

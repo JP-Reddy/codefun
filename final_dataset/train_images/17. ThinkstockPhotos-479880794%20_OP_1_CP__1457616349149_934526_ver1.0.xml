@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette</folder>
+	<filename>17. ThinkstockPhotos-479880794%20_OP_1_CP__1457616349149_934526_ver1.0.jpg</filename>
+	<path>D:\Projects\codefun\git\dataset\cigarette\17. ThinkstockPhotos-479880794%20_OP_1_CP__1457616349149_934526_ver1.0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3044</width>
+		<height>1947</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1346</xmin>
+			<ymin>153</ymin>
+			<xmax>2123</xmax>
+			<ymax>844</ymax>
+		</bndbox>
+	</object>
+</annotation>
