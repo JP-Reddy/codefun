@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/JP-Reddy/codefun/issues"
   },
-  "homepage": "https://github.com/JP-Reddy/codefun#readme"
+  "homepage": "https://github.com/JP-Reddy/codefun#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemon": "^1.15.0"
+  }
 }
