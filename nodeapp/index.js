@@ -22,11 +22,11 @@ app.post('/upload', function(req, res) {
   if (!req.files)
 	return res.status(400).send('No files were uploaded.');
  
-  // The name of the input field (i.e. "sampleFile") is used to retrieve the uploaded file
+  
   let sampleFile = req.files.sampleFile;
   console.log(sampleFile);
  
-  // Use the mv() method to place the file somewhere on your server
+  //always mp4, change if required
   var paths = path.join(__dirname, '/video/inputfile.mp4');
   console.log(paths);
   sampleFile.mv(paths, function(err) {
@@ -35,7 +35,7 @@ app.post('/upload', function(req, res) {
 	   }
  
 	   	//change this
-		res.redirect('/');
+		res.redirect('/uploaded');
 		// else{
 		// 	return res.status(200)
 		// }
@@ -63,10 +63,10 @@ app.post('/upload', function(req, res) {
 
 app.get('', function(req, res){
 	
-	pyshell.run('test.py', function (err, result) {
-		if (err) throw err;
-		console.log('finished' + result);
-	});
+	// pyshell.run('test.py', function (err, result) {
+	// 	if (err) throw err;
+	// 	console.log('finished' + result);
+	// });
 
 	res.render('home');
 });
@@ -75,5 +75,10 @@ app.get('', function(req, res){
 
 // 	res.sendfile(path.resolve('./images/filename.jpg'));
 // });
+app.get('/uploaded', function(req, res){
+
+	res.render('uploaded');
+
+});
 
 app.listen(8000);
