@@ -27,14 +27,15 @@ app.post('/upload', function(req, res) {
   console.log(sampleFile);
  
   // Use the mv() method to place the file somewhere on your server
-  var paths = path.join(__dirname, '/images/' + sampleFile.name);
+  var paths = path.join(__dirname, '/video/inputfile.mp4');
   console.log(paths);
   sampleFile.mv(paths, function(err) {
 	   if(err){
 			return res.status(500).send(err);
 	   }
  
-	  res.send('File uploaded!');
+	   	//change this
+		res.redirect('/');
 		// else{
 		// 	return res.status(200)
 		// }
@@ -70,9 +71,9 @@ app.get('', function(req, res){
 	res.render('home');
 });
 
-app.get('/img', function(req, res){
+// app.get('/img', function(req, res){
 
-	res.sendfile(path.resolve('./images/filename.jpg'));
-});
+// 	res.sendfile(path.resolve('./images/filename.jpg'));
+// });
 
 app.listen(8000);
