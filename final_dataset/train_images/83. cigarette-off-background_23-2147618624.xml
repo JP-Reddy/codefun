@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette</folder>
+	<filename>83. cigarette-off-background_23-2147618624.jpg</filename>
+	<path>D:\Projects\codefun\git\dataset\cigarette\83. cigarette-off-background_23-2147618624.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>77</ymin>
+			<xmax>473</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>

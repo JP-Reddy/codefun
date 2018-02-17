@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette</folder>
+	<filename>23. Cigarette%20tax%20keyframe.jpg</filename>
+	<path>D:\Projects\codefun\git\dataset\cigarette\23. Cigarette%20tax%20keyframe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1140</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>234</ymin>
+			<xmax>775</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

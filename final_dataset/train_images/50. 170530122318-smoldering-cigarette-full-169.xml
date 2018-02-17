@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette</folder>
+	<filename>50. 170530122318-smoldering-cigarette-full-169.jpg</filename>
+	<path>D:\Projects\codefun\git\dataset\cigarette\50. 170530122318-smoldering-cigarette-full-169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>313</ymin>
+			<xmax>1272</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+</annotation>

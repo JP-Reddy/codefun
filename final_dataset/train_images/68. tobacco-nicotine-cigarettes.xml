@@ -1,0 +1,38 @@
+<annotation>
+	<folder>cigarette</folder>
+	<filename>68. tobacco-nicotine-cigarettes.jpg</filename>
+	<path>D:\Projects\codefun\git\dataset\cigarette\68. tobacco-nicotine-cigarettes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>446</width>
+		<height>298</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>61</ymin>
+			<xmax>185</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>45</ymin>
+			<xmax>446</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

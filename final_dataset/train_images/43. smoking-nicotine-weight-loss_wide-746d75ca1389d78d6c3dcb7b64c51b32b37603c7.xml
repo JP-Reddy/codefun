@@ -1,0 +1,26 @@
+<annotation>
+	<folder>people smoking</folder>
+	<filename>43. smoking-nicotine-weight-loss_wide-746d75ca1389d78d6c3dcb7b64c51b32b37603c7.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\people smoking\43. smoking-nicotine-weight-loss_wide-746d75ca1389d78d6c3dcb7b64c51b32b37603c7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>561</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>212</ymin>
+			<xmax>733</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

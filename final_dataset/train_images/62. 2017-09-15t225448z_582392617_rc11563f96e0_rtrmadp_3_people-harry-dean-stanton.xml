@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette in movies</folder>
+	<filename>62. 2017-09-15t225448z_582392617_rc11563f96e0_rtrmadp_3_people-harry-dean-stanton.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\cigarette in movies\62. 2017-09-15t225448z_582392617_rc11563f96e0_rtrmadp_3_people-harry-dean-stanton.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1031</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>509</xmin>
+			<ymin>404</ymin>
+			<xmax>606</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette</folder>
+	<filename>94. 6447341369_db970e431f_b.jpg</filename>
+	<path>D:\Projects\codefun\git\dataset\cigarette\94. 6447341369_db970e431f_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>200</ymin>
+			<xmax>862</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

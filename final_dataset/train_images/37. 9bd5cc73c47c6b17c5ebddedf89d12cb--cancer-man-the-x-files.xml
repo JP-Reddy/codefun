@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cigarette in movies</folder>
+	<filename>37. 9bd5cc73c47c6b17c5ebddedf89d12cb--cancer-man-the-x-files.jpg</filename>
+	<path>C:\Users\Abhishek\Documents\6th Semester\Code.Fun.Do\Github Repo\codefun\dataset\cigarette in movies\37. 9bd5cc73c47c6b17c5ebddedf89d12cb--cancer-man-the-x-files.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>1011</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>443</ymin>
+			<xmax>208</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>
