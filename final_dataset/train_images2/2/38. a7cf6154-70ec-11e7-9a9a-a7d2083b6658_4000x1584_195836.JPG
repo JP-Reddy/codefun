@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>38. a7cf6154-70ec-11e7-9a9a-a7d2083b6658_4000x1584_195836.JPG.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\38. a7cf6154-70ec-11e7-9a9a-a7d2083b6658_4000x1584_195836.JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>792</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ci</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>86</ymin>
+			<xmax>191</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>48. 30shahrukh.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\48. 30shahrukh.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>170</width>
+		<height>207</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>103</ymin>
+			<xmax>106</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

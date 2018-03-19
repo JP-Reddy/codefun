@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>62. 9-take-it-one-day-at-a-time.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\62. 9-take-it-one-day-at-a-time.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>719</xmin>
+			<ymin>194</ymin>
+			<xmax>924</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

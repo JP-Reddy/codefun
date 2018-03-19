@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>42. smoke_men-wallpaper-5120x3200.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\42. smoke_men-wallpaper-5120x3200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5120</width>
+		<height>3200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2926</xmin>
+			<ymin>1168</ymin>
+			<xmax>3478</xmax>
+			<ymax>1336</ymax>
+		</bndbox>
+	</object>
+</annotation>

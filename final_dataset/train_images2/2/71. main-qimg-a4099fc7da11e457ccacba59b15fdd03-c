@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>71. main-qimg-a4099fc7da11e457ccacba59b15fdd03-c.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\71. main-qimg-a4099fc7da11e457ccacba59b15fdd03-c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>98</ymin>
+			<xmax>114</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

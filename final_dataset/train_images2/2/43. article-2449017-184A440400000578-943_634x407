@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>43. article-2449017-184A440400000578-943_634x407.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\43. article-2449017-184A440400000578-943_634x407.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>407</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>185</ymin>
+			<xmax>527</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

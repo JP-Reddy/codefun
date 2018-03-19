@@ -1,0 +1,38 @@
+<annotation>
+	<folder>2</folder>
+	<filename>42. Shah-Rukh-Khan-Smoking-Rajinikanth-Smoking-Bhoot-Movie-Poster.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\42. Shah-Rukh-Khan-Smoking-Rajinikanth-Smoking-Bhoot-Movie-Poster.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>688</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>137</ymin>
+			<xmax>150</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>208</ymin>
+			<xmax>348</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

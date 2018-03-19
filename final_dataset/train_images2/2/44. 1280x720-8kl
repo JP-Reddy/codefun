@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>44. 1280x720-8kl.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\44. 1280x720-8kl.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>921</xmin>
+			<ymin>299</ymin>
+			<xmax>1094</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

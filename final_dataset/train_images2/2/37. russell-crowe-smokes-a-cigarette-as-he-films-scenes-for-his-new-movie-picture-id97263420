@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>37. russell-crowe-smokes-a-cigarette-as-he-films-scenes-for-his-new-movie-picture-id97263420.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\37. russell-crowe-smokes-a-cigarette-as-he-films-scenes-for-his-new-movie-picture-id97263420.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ci</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>374</ymin>
+			<xmax>373</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

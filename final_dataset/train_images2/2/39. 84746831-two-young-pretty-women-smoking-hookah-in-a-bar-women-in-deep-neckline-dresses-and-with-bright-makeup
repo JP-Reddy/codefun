@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>39. 84746831-two-young-pretty-women-smoking-hookah-in-a-bar-women-in-deep-neckline-dresses-and-with-bright-makeup.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\39. 84746831-two-young-pretty-women-smoking-hookah-in-a-bar-women-in-deep-neckline-dresses-and-with-bright-makeup.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ci</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>481</xmin>
+			<ymin>625</ymin>
+			<xmax>545</xmax>
+			<ymax>866</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>2</folder>
+	<filename>55. 26A0C49C00000578-2994450-Collegiate_The_niece_of_Julia_Roberts_was_dressed_in_her_charact-a-25_1426322078100.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\55. 26A0C49C00000578-2994450-Collegiate_The_niece_of_Julia_Roberts_was_dressed_in_her_charact-a-25_1426322078100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>1095</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>799</ymin>
+			<xmax>423</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>not_cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>7</ymin>
+			<xmax>87</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

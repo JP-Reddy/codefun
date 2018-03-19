@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>55. indian-man-smoking-a-cigarette-andhra-pradesh-south-india-c83w4y.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\55. indian-man-smoking-a-cigarette-andhra-pradesh-south-india-c83w4y.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>446</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>248</ymin>
+			<xmax>301</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

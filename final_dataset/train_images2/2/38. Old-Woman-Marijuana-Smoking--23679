@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>38. Old-Woman-Marijuana-Smoking--23679.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\38. Old-Woman-Marijuana-Smoking--23679.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1066</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ci</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>586</ymin>
+			<xmax>618</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>

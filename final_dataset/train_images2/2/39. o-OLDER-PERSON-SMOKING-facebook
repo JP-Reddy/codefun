@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>39. o-OLDER-PERSON-SMOKING-facebook.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\39. o-OLDER-PERSON-SMOKING-facebook.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>1023</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ci</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1094</xmin>
+			<ymin>358</ymin>
+			<xmax>1323</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+</annotation>

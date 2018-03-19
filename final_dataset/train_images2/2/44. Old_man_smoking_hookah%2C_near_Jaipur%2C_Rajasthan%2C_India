@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>44. Old_man_smoking_hookah%2C_near_Jaipur%2C_Rajasthan%2C_India.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\44. Old_man_smoking_hookah%2C_near_Jaipur%2C_Rajasthan%2C_India.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2152</width>
+		<height>3156</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1748</xmin>
+			<ymin>2058</ymin>
+			<xmax>1888</xmax>
+			<ymax>2148</ymax>
+		</bndbox>
+	</object>
+</annotation>

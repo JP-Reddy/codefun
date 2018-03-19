@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>60. rajinikanth250717_t.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\60. rajinikanth250717_t.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>242</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>101</ymin>
+			<xmax>305</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>66. f7db2d1fcc4d4c4ac0b1cefadcbd2c0a--kareena-kapoor-smoking-pics.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\66. f7db2d1fcc4d4c4ac0b1cefadcbd2c0a--kareena-kapoor-smoking-pics.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>130</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>31</ymin>
+			<xmax>48</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

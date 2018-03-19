@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>70. the-400-blows-11.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\70. the-400-blows-11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>687</xmin>
+			<ymin>284</ymin>
+			<xmax>768</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

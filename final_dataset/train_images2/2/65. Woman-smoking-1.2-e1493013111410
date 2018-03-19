@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>65. Woman-smoking-1.2-e1493013111410.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\65. Woman-smoking-1.2-e1493013111410.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>992</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>272</ymin>
+			<xmax>101</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

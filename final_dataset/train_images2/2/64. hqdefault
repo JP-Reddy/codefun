@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>64. hqdefault.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\2\64. hqdefault.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>181</ymin>
+			<xmax>254</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>
