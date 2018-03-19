@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>3. bigstock-Retro-Portrait-Of-Beautiful-Wo-42118042.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\3. bigstock-Retro-Portrait-Of-Beautiful-Wo-42118042.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3300</width>
+		<height>3300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1817</xmin>
+			<ymin>2080</ymin>
+			<xmax>2362</xmax>
+			<ymax>2310</ymax>
+		</bndbox>
+	</object>
+</annotation>

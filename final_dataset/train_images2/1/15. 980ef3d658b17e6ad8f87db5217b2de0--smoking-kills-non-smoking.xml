@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>15. 980ef3d658b17e6ad8f87db5217b2de0--smoking-kills-non-smoking.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\15. 980ef3d658b17e6ad8f87db5217b2de0--smoking-kills-non-smoking.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>8</ymin>
+			<xmax>93</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

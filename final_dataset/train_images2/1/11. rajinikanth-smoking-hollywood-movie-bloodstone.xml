@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>11. rajinikanth-smoking-hollywood-movie-bloodstone.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\11. rajinikanth-smoking-hollywood-movie-bloodstone.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>591</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>160</ymin>
+			<xmax>222</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>22. 26A0C3BB00000578-2994450-Light_me_up_Actress_Emma_Roberts_24_was_spotted_taking_a_smoke_b-a-21_1426322077831.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\22. 26A0C3BB00000578-2994450-Light_me_up_Actress_Emma_Roberts_24_was_spotted_taking_a_smoke_b-a-21_1426322077831.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>913</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>195</ymin>
+			<xmax>432</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

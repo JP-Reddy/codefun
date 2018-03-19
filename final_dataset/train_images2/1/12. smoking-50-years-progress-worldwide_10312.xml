@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>12. smoking-50-years-progress-worldwide_10312.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\12. smoking-50-years-progress-worldwide_10312.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>765</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>153</ymin>
+			<xmax>725</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>

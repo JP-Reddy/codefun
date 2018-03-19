@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>32. young-woman-smoking-cigarette-black-and-white-picture-id108162739.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\32. young-woman-smoking-cigarette-black-and-white-picture-id108162739.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>686</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>254</ymin>
+			<xmax>386</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

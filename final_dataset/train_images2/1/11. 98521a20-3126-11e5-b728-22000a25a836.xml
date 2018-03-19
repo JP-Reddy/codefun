@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1</folder>
+	<filename>11. 98521a20-3126-11e5-b728-22000a25a836.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\11. 98521a20-3126-11e5-b728-22000a25a836.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>419</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>92</ymin>
+			<xmax>149</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>81</ymin>
+			<xmax>307</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

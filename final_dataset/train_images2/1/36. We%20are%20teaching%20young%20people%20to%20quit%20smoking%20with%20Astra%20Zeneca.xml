@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>36. We%20are%20teaching%20young%20people%20to%20quit%20smoking%20with%20Astra%20Zeneca.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\36. We%20are%20teaching%20young%20people%20to%20quit%20smoking%20with%20Astra%20Zeneca.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>330</ymin>
+			<xmax>443</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

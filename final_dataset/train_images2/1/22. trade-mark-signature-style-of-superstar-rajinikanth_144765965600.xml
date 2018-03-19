@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>22. trade-mark-signature-style-of-superstar-rajinikanth_144765965600.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\22. trade-mark-signature-style-of-superstar-rajinikanth_144765965600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>177</ymin>
+			<xmax>240</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

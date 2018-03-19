@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>20. stylish-old-lady.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\20. stylish-old-lady.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>483</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>223</ymin>
+			<xmax>114</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

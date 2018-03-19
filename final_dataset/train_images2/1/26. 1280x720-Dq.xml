@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1</folder>
+	<filename>26. 1280x720-Dq.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\26. 1280x720-Dq.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>337</ymin>
+			<xmax>348</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>880</xmin>
+			<ymin>265</ymin>
+			<xmax>955</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

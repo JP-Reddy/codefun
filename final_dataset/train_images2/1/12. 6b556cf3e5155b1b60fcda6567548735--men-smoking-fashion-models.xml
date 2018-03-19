@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>12. 6b556cf3e5155b1b60fcda6567548735--men-smoking-fashion-models.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\12. 6b556cf3e5155b1b60fcda6567548735--men-smoking-fashion-models.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>942</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>235</ymin>
+			<xmax>418</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

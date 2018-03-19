@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1</folder>
+	<filename>29. srk-smoking.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\29. srk-smoking.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>82</ymin>
+			<xmax>131</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>not_cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>249</ymin>
+			<xmax>300</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

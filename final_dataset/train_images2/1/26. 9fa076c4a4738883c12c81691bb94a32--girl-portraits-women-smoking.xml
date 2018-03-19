@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>26. 9fa076c4a4738883c12c81691bb94a32--girl-portraits-women-smoking.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\26. 9fa076c4a4738883c12c81691bb94a32--girl-portraits-women-smoking.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>343</ymin>
+			<xmax>320</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

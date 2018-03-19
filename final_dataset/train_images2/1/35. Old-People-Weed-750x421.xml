@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1</folder>
+	<filename>35. Old-People-Weed-750x421.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\35. Old-People-Weed-750x421.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not_cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>225</ymin>
+			<xmax>475</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>not_cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>374</ymin>
+			<xmax>170</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

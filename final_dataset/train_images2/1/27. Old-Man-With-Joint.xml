@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>27. Old-Man-With-Joint.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\27. Old-Man-With-Joint.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>502</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>265</ymin>
+			<xmax>396</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

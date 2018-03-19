@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>49. dc-Cover-38v3br01a0jdc6sdr2mchg0o01-20161111155734.Medi.jpeg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\49. dc-Cover-38v3br01a0jdc6sdr2mchg0o01-20161111155734.Medi.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>1</ymin>
+			<xmax>645</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

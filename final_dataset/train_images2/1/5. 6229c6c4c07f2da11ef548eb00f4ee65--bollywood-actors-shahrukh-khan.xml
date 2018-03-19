@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>5. 6229c6c4c07f2da11ef548eb00f4ee65--bollywood-actors-shahrukh-khan.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\5. 6229c6c4c07f2da11ef548eb00f4ee65--bollywood-actors-shahrukh-khan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>328</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>113</ymin>
+			<xmax>150</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>

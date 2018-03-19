@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>8. rtr4y6bx.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\8. rtr4y6bx.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1381</xmin>
+			<ymin>1237</ymin>
+			<xmax>1939</xmax>
+			<ymax>1337</ymax>
+		</bndbox>
+	</object>
+</annotation>

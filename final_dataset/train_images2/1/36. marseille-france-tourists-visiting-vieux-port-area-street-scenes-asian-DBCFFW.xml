@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>36. marseille-france-tourists-visiting-vieux-port-area-street-scenes-asian-DBCFFW.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\36. marseille-france-tourists-visiting-vieux-port-area-street-scenes-asian-DBCFFW.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1206</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>738</xmin>
+			<ymin>426</ymin>
+			<xmax>936</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

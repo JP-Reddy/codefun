@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>34. men-fashion-style-smoking-hunter-autumn.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\34. men-fashion-style-smoking-hunter-autumn.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1206</width>
+		<height>1600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>609</xmin>
+			<ymin>604</ymin>
+			<xmax>682</xmax>
+			<ymax>699</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>12. old_man_smoking_by_xxchef-d4nyry9.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\12. old_man_smoking_by_xxchef-d4nyry9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1253</width>
+		<height>1275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymin>931</ymin>
+			<xmax>592</xmax>
+			<ymax>1253</ymax>
+		</bndbox>
+	</object>
+</annotation>

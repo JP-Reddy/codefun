@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>21. cigarette-lung-bowel-inflammation.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\21. cigarette-lung-bowel-inflammation.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>662</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>355</ymin>
+			<xmax>673</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>

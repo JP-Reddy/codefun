@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>6. smoke_man.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\6. smoke_man.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>450</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>211</ymin>
+			<xmax>401</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

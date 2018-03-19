@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>34. 7-things-women-who-smoke-weed-are-sick-of-hearing-5.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\34. 7-things-women-who-smoke-weed-are-sick-of-hearing-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>467</ymin>
+			<xmax>407</xmax>
+			<ymax>706</ymax>
+		</bndbox>
+	</object>
+</annotation>

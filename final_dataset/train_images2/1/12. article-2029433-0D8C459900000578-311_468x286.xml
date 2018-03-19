@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>12. article-2029433-0D8C459900000578-311_468x286.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\12. article-2029433-0D8C459900000578-311_468x286.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>286</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>106</ymin>
+			<xmax>169</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

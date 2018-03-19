@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1</folder>
+	<filename>26. ryan-gosling-cigarette-new-film-the-nice-guys-atlanta-new-father-eva-mendes-216893.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\26. ryan-gosling-cigarette-new-film-the-nice-guys-atlanta-new-father-eva-mendes-216893.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>833</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>213</ymin>
+			<xmax>222</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>516</xmin>
+			<ymin>681</ymin>
+			<xmax>559</xmax>
+			<ymax>734</ymax>
+		</bndbox>
+	</object>
+</annotation>

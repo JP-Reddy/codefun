@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>4. Study-Suggests-Older-People-Need-Pot-Because-Theyre-Drinking-Too-Much.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\4. Study-Suggests-Older-People-Need-Pot-Because-Theyre-Drinking-Too-Much.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1121</xmin>
+			<ymin>695</ymin>
+			<xmax>1432</xmax>
+			<ymax>918</ymax>
+		</bndbox>
+	</object>
+</annotation>

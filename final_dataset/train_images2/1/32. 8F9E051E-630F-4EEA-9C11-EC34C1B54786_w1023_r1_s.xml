@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>32. 8F9E051E-630F-4EEA-9C11-EC34C1B54786_w1023_r1_s.jpg</filename>
+	<path>D:\Projects\codefun\git\final_dataset\train_images2\1\32. 8F9E051E-630F-4EEA-9C11-EC34C1B54786_w1023_r1_s.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>575</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>516</xmin>
+			<ymin>298</ymin>
+			<xmax>557</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>
