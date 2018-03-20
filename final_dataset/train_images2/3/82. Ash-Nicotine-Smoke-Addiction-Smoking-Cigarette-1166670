@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>82. Ash-Nicotine-Smoke-Addiction-Smoking-Cigarette-1166670.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\82. Ash-Nicotine-Smoke-Addiction-Smoking-Cigarette-1166670.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>148</ymin>
+			<xmax>145</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>85. smoking_759_thinkstock1.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\85. smoking_759_thinkstock1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>759</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>121</ymin>
+			<xmax>591</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

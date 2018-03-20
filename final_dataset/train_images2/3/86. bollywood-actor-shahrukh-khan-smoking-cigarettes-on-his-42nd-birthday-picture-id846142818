@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>86. bollywood-actor-shahrukh-khan-smoking-cigarettes-on-his-42nd-birthday-picture-id846142818.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\86. bollywood-actor-shahrukh-khan-smoking-cigarettes-on-his-42nd-birthday-picture-id846142818.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>406</ymin>
+			<xmax>460</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

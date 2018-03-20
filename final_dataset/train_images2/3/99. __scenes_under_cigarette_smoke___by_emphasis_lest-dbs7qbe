@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>99. __scenes_under_cigarette_smoke___by_emphasis_lest-dbs7qbe.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\99. __scenes_under_cigarette_smoke___by_emphasis_lest-dbs7qbe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>814</width>
+		<height>982</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>484</ymin>
+			<xmax>322</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

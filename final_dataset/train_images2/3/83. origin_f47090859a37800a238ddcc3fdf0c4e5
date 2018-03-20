@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>83. origin_f47090859a37800a238ddcc3fdf0c4e5.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\83. origin_f47090859a37800a238ddcc3fdf0c4e5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>903</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>499</ymin>
+			<xmax>216</xmax>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+</annotation>

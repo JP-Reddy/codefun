@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>86. csm_20170501_jeunes-fumeurs_d8760492c0.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\86. csm_20170501_jeunes-fumeurs_d8760492c0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1125</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>537</xmin>
+			<ymin>332</ymin>
+			<xmax>562</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

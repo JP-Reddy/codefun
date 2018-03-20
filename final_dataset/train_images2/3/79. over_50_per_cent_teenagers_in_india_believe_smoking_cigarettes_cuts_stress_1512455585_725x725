@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>79. over_50_per_cent_teenagers_in_india_believe_smoking_cigarettes_cuts_stress_1512455585_725x725.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\79. over_50_per_cent_teenagers_in_india_believe_smoking_cigarettes_cuts_stress_1512455585_725x725.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>725</width>
+		<height>481</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>250</ymin>
+			<xmax>385</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

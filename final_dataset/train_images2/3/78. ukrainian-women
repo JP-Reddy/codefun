@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>78. ukrainian-women.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\78. ukrainian-women.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>794</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>300</ymin>
+			<xmax>491</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

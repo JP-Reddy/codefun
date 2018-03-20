@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>77. jason-robards-with-cigarette-in-a-scene-from-the-film-long-days-into-picture-id145663815.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\77. jason-robards-with-cigarette-in-a-scene-from-the-film-long-days-into-picture-id145663815.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>779</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>194</ymin>
+			<xmax>256</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

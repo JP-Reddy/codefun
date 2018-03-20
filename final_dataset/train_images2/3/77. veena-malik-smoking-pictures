@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>77. veena-malik-smoking-pictures.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\77. veena-malik-smoking-pictures.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>178</ymin>
+			<xmax>254</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

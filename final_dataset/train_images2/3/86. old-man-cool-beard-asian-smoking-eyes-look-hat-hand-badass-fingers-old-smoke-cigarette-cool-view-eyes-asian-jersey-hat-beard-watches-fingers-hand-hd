@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>86. old-man-cool-beard-asian-smoking-eyes-look-hat-hand-badass-fingers-old-smoke-cigarette-cool-view-eyes-asian-jersey-hat-beard-watches-fingers-hand-hd.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\86. old-man-cool-beard-asian-smoking-eyes-look-hat-hand-badass-fingers-old-smoke-cigarette-cool-view-eyes-asian-jersey-hat-beard-watches-fingers-hand-hd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>788</xmin>
+			<ymin>594</ymin>
+			<xmax>905</xmax>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

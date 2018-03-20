@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>76. 201108_Nicotine_BOX_1.JPG.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\76. 201108_Nicotine_BOX_1.JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>784</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>358</ymin>
+			<xmax>546</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>

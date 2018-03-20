@@ -1,0 +1,38 @@
+<annotation>
+	<folder>3</folder>
+	<filename>86. 2978849-mad-men-smoking-don-draper___mixed-wallpapers.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\86. 2978849-mad-men-smoking-don-draper___mixed-wallpapers.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1216</xmin>
+			<ymin>501</ymin>
+			<xmax>1282</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>487</xmin>
+			<ymin>536</ymin>
+			<xmax>585</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

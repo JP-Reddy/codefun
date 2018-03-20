@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>95. smoking-nicotine-weight-loss_wide-746d75ca1389d78d6c3dcb7b64c51b32b37603c7.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\95. smoking-nicotine-weight-loss_wide-746d75ca1389d78d6c3dcb7b64c51b32b37603c7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>561</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>620</xmin>
+			<ymin>241</ymin>
+			<xmax>724</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

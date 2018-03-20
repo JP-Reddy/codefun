@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>82. studio-portrait-of-man-smoking-cigar-poster-print-18-x-24_1789278.jpg</filename>
+	<path>G:\Main Projects\code.fun.do\codefun\final_dataset\train_images2\3\82. studio-portrait-of-man-smoking-cigar-poster-print-18-x-24_1789278.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>450</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>158</ymin>
+			<xmax>195</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>
