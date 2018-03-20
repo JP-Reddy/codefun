@@ -23,16 +23,4 @@
 			<ymax>626</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>cigarette</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>481</xmin>
-			<ymin>273</ymin>
-			<xmax>548</xmax>
-			<ymax>623</ymax>
-		</bndbox>
-	</object>
 </annotation>
